@@ -1,3 +1,6 @@
+[![Discord](https://raw.githubusercontent.com/CorellanStoma/CorellanStoma/master/shields/discord.png)](https://discord.com/)
+[![Powercord](https://raw.githubusercontent.com/CorellanStoma/CorellanStoma/master/shields/powercord.png)](https://powercord.dev/)
+
 <h1 align=center> Nebula </h1>
 <h3 align=center> Nebula is a round, consistent, optimized, full dark blue theme. </h3>
 
