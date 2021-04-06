@@ -1,7 +1,14 @@
 <h1 align=center> Nebula </h1>
 <h3 align=center> Nebula is a round, consistent, optimized, full dark blue theme. </h3>
 
-![Main](https://i.imgur.com/1BHIE4Z.png)
+![Preview](https://i.imgur.com/1BHIE4Z.png)
+
+
+### Prerequisites
+
+For this Powercord theme you need the [**Discord Canary**](https://discordia.me/en/canary) Version and a [**Powercord**](https://powercord.dev/installation) Instalation.
+
+## Getting Started
 
 ### Installation
 
