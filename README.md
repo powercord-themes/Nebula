@@ -12,7 +12,7 @@
 
 For this Powercord theme you need the [**Discord Canary**](https://discordia.me/en/canary) Version and a [**Powercord**](https://powercord.dev/installation) Installation.
 
-For theme management use [**Theme Toggler**](https://github.com/redstonekasi/theme-toggler)
+For good theme management use the [**Theme Toggler**](https://github.com/redstonekasi/theme-toggler) plugin.
 
 ### Installation
 
