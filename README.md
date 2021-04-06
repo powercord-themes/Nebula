@@ -3,6 +3,8 @@
 
 ![Banner](https://user-images.githubusercontent.com/58918358/113749822-5ebf6200-970a-11eb-8795-20a005a9828f.png)
 
+## Preview
+
 Nebula is a round, consistent, optimized, full dark blue theme.
 
 ![Preview](https://i.imgur.com/1BHIE4Z.png)
