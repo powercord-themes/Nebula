@@ -12,6 +12,8 @@
 
 For this Powercord theme you need the [**Discord Canary**](https://discordia.me/en/canary) Version and a [**Powercord**](https://powercord.dev/installation) Installation.
 
+For theme management use [**Theme Toggler**](https://github.com/redstonekasi/theme-toggler)
+
 ### Installation
 
 To install the Download and Install the Theme use this command:
